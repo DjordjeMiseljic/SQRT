@@ -1,0 +1,2 @@
+sqrtip_1.0 - Simple sqrt algorithm for calculating square root of an integer
+notmysqrtip_1.0 - The same ip as before but with additional state, that delays the output by N clock cycles. N being the number that is the input to the algorithm. This unorthodox creaton is needed to aproximate some arbitrary O(N) algorithm, and is used only for experimentation.
